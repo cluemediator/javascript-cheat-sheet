@@ -162,6 +162,7 @@
     ```
 
     - Objects:
+      
         ```js
         var student = {                 // object name
             firstName:"Jane",           // list of properties and values
@@ -410,7 +411,9 @@
         status = "Not eligible.";           // executed if condition is false
     }
     ```
+    
     - Switch Statement:
+      
         ```js
         switch (new Date().getDay()) {      // input is current day
             case 6:                         // if (day == 6)
@@ -609,7 +612,7 @@
         finally {
             document.write("</br />Done");              // executed regardless of the try / catch result
         }
-    ```
+        ```
 
     - Error name values
 
