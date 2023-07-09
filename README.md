@@ -18,6 +18,7 @@
 - [JSON](#json)
 - [Regular Expressions](#regular-expressions)
 - [If-Else](#if-else)
+- [Loops](#loops)
 - [Global Functions](#global-functions)
 - [Events](#events)
 - [Promises](#promises)
